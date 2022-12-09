@@ -1,0 +1,52 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Include\ImGui\imgui_widgets.cpp(5035,67): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Include\ImGui\imgui_widgets.cpp(5035,96): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Include\ImGui\imgui_widgets.cpp(5037,73): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Include\ImGui\imgui_widgets.cpp(5037,107): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Include\ImGui\imgui_widgets.cpp(5039,70): warning C4293: '<<': shift count negative or too big, undefined behavior
+  dllmain.cpp
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Utils\Math\Vector\Vector3.hpp(462,10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Utils\Math\Vector\Vector3.hpp(490,5): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Utils\Math\Vector\Vector3.hpp(492,5): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Utils\Math\Vector\Vector3.hpp(496,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Utils\Math\Vector\Vector3.hpp(498,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Utils\Math\Vector\Vector3.hpp(500,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Utils\Math\Vector\Vector3.hpp(502,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Utils\Math\Vector\Vector3.hpp(517,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Utils\Math\Vector\Vector3.hpp(519,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Classes\Transform.hpp(103,1): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Classes\Component.hpp(62,1): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Features\AntiHack\EyeSpoof.hpp(3,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Features\AntiHack\EyeSpoof.hpp(3,16): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Features\AntiHack\EyeSpoof.hpp(4,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Features\AntiHack\EyeSpoof.hpp(4,16): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Features\AntiHack\EyeSpoof.hpp(7,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Features\AntiHack\EyeSpoof.hpp(8,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Features\AntiHack\EyeSpoof.hpp(10,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Features\AntiHack\EyeSpoof.hpp(11,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Features\AntiHack\EyeSpoof.hpp(12,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Features\Combat\Prediction.hpp(37,57): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Features\Combat\Silent.hpp(279,40): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Features\Drawing\Rendering\Rendering.hpp(34,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Features\Drawing\Rendering\Rendering.hpp(34,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Features\Drawing\Players.hpp(73,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Features\Drawing\Players.hpp(74,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Features\Drawing\Players.hpp(75,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Classes\BaseProjectile.hpp(18): warning C4172: returning address of local variable or temporary: n
+C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\Core\Rust\Classes\GamePhysics.hpp(31): warning C4715: 'IsVisible': not all control paths return a value
+  All 1787 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ClassifiedHook.vcxproj -> C:\Users\kcxac\Documents\ClassifiedHook-bosso-code\x64\Release\ClassifiedHook.dll
